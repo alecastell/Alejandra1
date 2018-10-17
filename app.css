@@ -1,9 +1,13 @@
 body {
 	color: black;
-	background: #EC7063;
+	background: #AED6F1;
 	text-align: center;
-
-
 }
 
+table {
+	color: black;
+	border: 4px;
+	margin: auto;
+	
+}
 
